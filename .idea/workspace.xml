@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9a4d8dda-fc58-41c8-ab03-ba94beb6f6d0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="9a4d8dda-fc58-41c8-ab03-ba94beb6f6d0" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,5 +53,11 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="438" y="256" key="#Notifications" timestamp="1615372964262">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state x="438" y="256" key="#Notifications/-223.-1177.1920.1177/0.23.1440.805@0.23.1440.805" timestamp="1615372964262" />
   </component>
 </project>
